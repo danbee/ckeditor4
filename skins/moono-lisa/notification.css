@@ -125,7 +125,7 @@ For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
 
 .cke_notification_close
 {
-	background-image: url(images/close.png);
+	background-image: url(./images/close.png);
 	background-repeat: no-repeat;
 	background-position: 50%;
 	position: absolute;

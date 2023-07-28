@@ -11,7 +11,7 @@ This file contains styles to used by Internet Explorer 8 only.
 */
 
 /* Base it on dialog_ie.css, overriding it with styles defined in this file. */
-@import url("dialog_ie.css");
+@import url("./dialog_ie.css");
 
 /* Without min-height, border-box is not respected and button shrinks when 2px border on :focus is applied. */
 a.cke_dialog_ui_button {

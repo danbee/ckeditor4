@@ -76,7 +76,7 @@ Special outer level classes used in this file:
 	border-radius: 5px;
 
 	/* The white-to-color gradiend we see at the top of the editor. */
-	background: #d3d3d3 url(images/sprites.png) repeat-x 0 -1950px;
+	background: #d3d3d3 url(./images/sprites.png) repeat-x 0 -1950px;
 	background: linear-gradient(to bottom, #fff -15px, #d3d3d3 40px);
 
 	/* Spacing with the inner blocks. */

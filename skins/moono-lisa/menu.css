@@ -194,7 +194,7 @@ Special outer level classes used in this file:
 /* The small arrow shown for item with sub-menus. */
 .cke_menuarrow
 {
-	background: transparent url(images/arrow.png) no-repeat 0 10px;
+	background: transparent url(./images/arrow.png) no-repeat 0 10px;
 	padding: 0 5px;
 }
 

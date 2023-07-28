@@ -12,7 +12,7 @@ in Quirks mode only.
 */
 
 /* Base it on editor_ie.css, overriding it with styles defined in this file. */
-@import url("editor_ie.css");
+@import url("./editor_ie.css");
 
 .cke_top,
 .cke_contents,
@@ -51,7 +51,7 @@ in Quirks mode only.
 .cke_toolbox_collapser,
 .cke_resizer
 {
-	background-image: url(images/sprites_ie6.png);
+	background-image: url(./images/sprites_ie6.png);
 }
 
 .cke_toolgroup
@@ -193,7 +193,7 @@ in Quirks mode only.
 
 a.cke_dialog_ui_button
 {
-	background: url(images/sprites.png) repeat_x 0 _ 1069px;
+	background: url(./images/sprites.png) repeat_x 0 _ 1069px;
 }
 
 a.cke_dialog_ui_button:hover,
@@ -205,12 +205,12 @@ a.cke_dialog_ui_button:active
 
 a.cke_dialog_ui_button_ok
 {
-	background: url(images/sprites.png) repeat_x 0 _ 1144px;
+	background: url(./images/sprites.png) repeat_x 0 _ 1144px;
 }
 
 a.cke_dialog_ui_button_cancel
 {
-	background: url(images/sprites.png) repeat_x 0 _ 1105px;
+	background: url(./images/sprites.png) repeat_x 0 _ 1105px;
 }
 
 a.cke_dialog_ui_button_ok span,
@@ -226,7 +226,7 @@ a.cke_dialog_ui_button_cancel span
 
 .cke_menuarrow
 {
-	background-image: url(images/sprites_ie6.png);
+	background-image: url(./images/sprites_ie6.png);
 }
 
 .cke_menuitem .cke_icon,

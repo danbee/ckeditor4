@@ -97,7 +97,7 @@ Comments in this file will give more details about each of the above blocks.
 .cke_browser_ie8 .cke_dialog_spinner,
 .cke_browser_ie9 .cke_dialog_spinner
 {
-	background: url(images/spinner.gif) center top no-repeat;
+	background: url(./images/spinner.gif) center top no-repeat;
 	width: 16px;
 	height: 16px;
 	border: 0;
@@ -237,7 +237,7 @@ The .cke_dialog_tab_selected class is appended to the active tab.
 /* A single tab (an <a> element). */
 a.cke_dialog_tab
 {
-	background-image: url(images/sprites.png);
+	background-image: url(./images/sprites.png);
 	background-repeat: repeat-x;
 	background-position: 0 -1323px;
 
@@ -300,7 +300,7 @@ a.cke_dialog_tab_disabled
 
 a.cke_dialog_close_button
 {
-	background-image: url(images/sprites.png);
+	background-image: url(./images/sprites.png);
 	background-repeat: no-repeat;
 	background-position: 0 -1022px;
 	position: absolute;
@@ -515,7 +515,7 @@ a.cke_dialog_ui_button
 	cursor: default;
 
 	border-radius: 5px;
-	background: transparent url(images/sprites.png) repeat-x scroll 0 -1069px;
+	background: transparent url(./images/sprites.png) repeat-x scroll 0 -1069px;
 	text-align: center;
 	display: inline-block;
 }
@@ -536,7 +536,7 @@ a.cke_dialog_ui_button_ok
 
 a.cke_dialog_ui_button_ok span
 {
-	background: transparent url(images/sprites.png) no-repeat scroll right -1216px;
+	background: transparent url(./images/sprites.png) no-repeat scroll right -1216px;
 }
 
 .cke_rtl a.cke_dialog_ui_button_ok span
@@ -552,7 +552,7 @@ a.cke_dialog_ui_button_cancel
 
 a.cke_dialog_ui_button_cancel span
 {
-	background: transparent url(images/sprites.png) no-repeat scroll right -1242px;
+	background: transparent url(./images/sprites.png) no-repeat scroll right -1242px;
 }
 
 .cke_rtl a.cke_dialog_ui_button_cancel span
@@ -644,7 +644,7 @@ select.cke_dialog_ui_input_select
 {
 	float: right;
 	background-position: 0 -32px;
-	background-image: url(images/mini.gif);
+	background-image: url(./images/mini.gif);
 	width: 16px;
 	height: 16px;
 	background-repeat: no-repeat;
@@ -662,7 +662,7 @@ select.cke_dialog_ui_input_select
 {
 	float: left;
 	background-position: 0 0;
-	background-image: url(images/mini.gif);
+	background-image: url(./images/mini.gif);
 	width: 16px;
 	height: 16px;
 	background-repeat: no-repeat;
@@ -683,7 +683,7 @@ select.cke_dialog_ui_input_select
 .cke_dialog a.cke_btn_unlocked
 {
 	background-position: 0 -16px;
-	background-image: url(images/mini.gif);
+	background-image: url(./images/mini.gif);
 }
 
 .cke_dialog .cke_btn_over

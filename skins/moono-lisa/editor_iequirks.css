@@ -12,7 +12,7 @@ in Quirks mode only.
 */
 
 /* Base it on editor_ie.css, overriding it with styles defined in this file. */
-@import url("editor_ie.css");
+@import url("./editor_ie.css");
 
 .cke_top,
 .cke_contents,

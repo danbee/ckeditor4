@@ -109,7 +109,7 @@ Comments in this file will give more details about each of the above blocks.
 .cke_browser_ie8 .cke_dialog_spinner,
 .cke_browser_ie9 .cke_dialog_spinner
 {
-	background: url(images/spinner.gif) center top no-repeat;
+	background: url(./images/spinner.gif) center top no-repeat;
 	width: 16px;
 	height: 16px;
 	border: 0;
@@ -328,7 +328,7 @@ a.cke_dialog_tab_disabled
 
 a.cke_dialog_close_button
 {
-	background-image: url(images/close.png);
+	background-image: url(./images/close.png);
 	background-repeat: no-repeat;
 	background-position: 50%;
 	position: absolute;
@@ -350,7 +350,7 @@ a.cke_dialog_close_button
 
 .cke_hidpi .cke_dialog_close_button
 {
-	background-image: url(images/hidpi/close.png);
+	background-image: url(./images/hidpi/close.png);
 	background-size: 16px;
 }
 
@@ -822,7 +822,7 @@ select.cke_dialog_ui_input_select
 .cke_dialog a.cke_btn_reset
 {
 	float: right;
-	background: url(images/refresh.png) top left no-repeat;
+	background: url(./images/refresh.png) top left no-repeat;
 	width: 16px;
 	height: 16px;
 	border: 1px none;
@@ -831,7 +831,7 @@ select.cke_dialog_ui_input_select
 
 .cke_hidpi .cke_dialog a.cke_btn_reset {
 	background-size: 16px;
-	background-image: url(images/hidpi/refresh.png);
+	background-image: url(./images/hidpi/refresh.png);
 }
 
 .cke_rtl .cke_dialog a.cke_btn_reset
@@ -863,12 +863,12 @@ select.cke_dialog_ui_input_select
 
 .cke_dialog a.cke_btn_locked
 {
-	background-image: url(images/lock.png);
+	background-image: url(./images/lock.png);
 }
 
 .cke_dialog a.cke_btn_unlocked
 {
-	background-image: url(images/lock-open.png);
+	background-image: url(./images/lock-open.png);
 }
 
 .cke_hidpi .cke_dialog a.cke_btn_unlocked,
@@ -877,11 +877,11 @@ select.cke_dialog_ui_input_select
 }
 
 .cke_hidpi .cke_dialog a.cke_btn_locked {
-	background-image: url(images/hidpi/lock.png);
+	background-image: url(./images/hidpi/lock.png);
 }
 
 .cke_hidpi .cke_dialog a.cke_btn_unlocked {
-	background-image: url(images/hidpi/lock-open.png);
+	background-image: url(./images/hidpi/lock-open.png);
 }
 
 .cke_dialog .cke_btn_over

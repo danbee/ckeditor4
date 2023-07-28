@@ -67,7 +67,7 @@ Special outer level classes used in this file:
 	float: left;
 	margin: 0 6px 5px 0;
 	padding: 2px;
-	background: url(images/sprites.png) repeat-x 0 -500px;
+	background: url(./images/sprites.png) repeat-x 0 -500px;
 
 	background: linear-gradient(to bottom, #fff, #d3d3d3 100px);
 }
